@@ -24,5 +24,27 @@ The analysis focuses on data cleaning, exploratory data analysis (EDA), and visu
 
 ---
 
+---
+
+
+
+##  How to Run This Project
+1. Clone or download the repository  
+2. Open `Superstore.ipynb` using Jupyter Notebook or Jupyter Lab  
+3. Ensure required Python libraries are installed  
+4. Run the notebook cells sequentially  
+
+---
+
+##  Key Learnings
+- Practical experience with data cleaning and preprocessing  
+- Strong understanding of exploratory data analysis using Pandas  
+- Creating clear visualizations to communicate business insights  
+
+---
+
+##  Conclusion
+This project demonstrates how Python can be used to analyze retail sales data and extract meaningful insights to support data-driven decision-making.
+
 
 
